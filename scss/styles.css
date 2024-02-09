@@ -1,0 +1,16 @@
+body {
+  font-family: "Arial", sans-serif;
+  font-size: 16px;
+  background-color: #007bff;
+  margin: 10px;
+}
+body h1 {
+  color: white;
+}
+body h2 {
+  width: 30px;
+  height: 30px;
+  background-color: #d568b7;
+}
+
+/*# sourceMappingURL=styles.css.map */
